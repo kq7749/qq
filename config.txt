@@ -1,8 +1,7 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "
-wxced1753788e712b0",
+"app_id": "wxced1753788e712b0",
 # 公众号appSecret
 "app_secret": "e2aa7713e6dbaaeca5a7fda91427b742",
 # 模板消息id
@@ -14,7 +13,7 @@ wxced1753788e712b0",
 # 和风天气apikey
 "weather_key": "8644842e5036450093e854fa670c5937",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "西安",
+"region": "西安市长安区",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "姐姐", "birthday": "2000-11-26"},
 # 生日2
